@@ -1,0 +1,359 @@
+/* top */
+.top{
+    margin-top: 5px;
+    
+ 
+}
+.top button{
+    
+    padding:10px 10px 10px 20px;
+    color: white;
+    text-align: center;
+    color:white;
+    font-size:10px;
+    font-weight: 500;
+}
+
+/* End top */
+
+/* logo */
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+.logo1{
+    color: blue;
+    font-size: xx-large;
+    font-weight: 900;
+
+}
+.logo2{
+    color: rgb(175, 36, 177);
+    font-size: xx-large;
+    font-weight: 900;
+}
+/* End logo */
+
+
+
+/* navbar */
+
+  .navbar-links li{
+    font-weight: 500;
+    margin-left:30px;
+    color:black;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #ffff;
+  }
+  .navbar-links li a{
+    font-weight: 500;
+    color: #000;
+    font-size: x-large;
+    display: inline;
+  }
+/* end navbar */
+
+/* main */
+.main{
+    background-image: url(../images/logo1.jpg);
+    border-radius: 30px 30px;
+    height: 500px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main .main1{
+    margin-top: 170px;
+    height: 150px;
+    width: 100%;
+    border-radius: 30px 30px;
+    margin-right: 10px;
+    background-color: rgb(34, 102, 144);
+    
+}
+.li li{
+    display: inline-block;
+    margin:5px 20px 10px 10px;
+    color: #ffff;
+
+}
+.li li:hover{
+    color: #ffff;
+    background-color: blue;
+    border-radius: 30px 30px;
+}
+.search button{
+    padding: 10px 20px;
+    border-radius: 30px 30px;
+    font-size: x-large; 
+}
+.search input{
+    border-radius: 30px 30px;
+}
+
+/* end main */
+
+h1{
+	color: blue;
+	margin-left: 10px;
+	font-weight: 700;
+}
+.links h3{
+	color: blue;
+	font-weight: 900;
+}
+.links p{
+	color:#000;
+	font-weight: 200;
+}
+.links p a{
+	color:blue ;
+}
+.residentail{
+	margin-left:7px;
+	font-weight: 500;
+	color:black;
+}
+.residentail h4{
+	color:blue;
+	font-weight: 700;
+}
+.residentail p{
+	font-weight: 500;
+	color:black;
+}
+.residentail img{
+	height: 200px;
+	width: 300px;
+	border-radius: 10px 30px;
+}
+
+/* used cars */
+.used-cars{
+	margin-left: 10px;
+	color:black;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+.used-cars img{
+	border-radius: 30px 30px;
+}
+.used-cars h4{
+	color:blue;
+	font-weight: 500;
+}
+/* end used cars */
+
+/* button view more */
+    .view-more button{
+        padding:10px 40px 20px 40px;
+        color: white;
+        border-radius: 30px 30px;
+        text-align: center;
+    }
+    .view-more button a{
+        color:white;
+        font-size: 20px;
+
+    }
+/* End button view more  */
+
+/* News and Blogs */
+
+.blog1{
+    background-image: url(../images/dubi/h1.webp);
+    margin: 10px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blog2{
+    background-image: url(../images/dubi/h2.webp);
+    margin: 10px;
+    height: 400px;
+    background-repeat: no-repeat;
+}
+.blog3{
+    background-image: url(../images/dubi/h3.webp);
+    background-repeat: no-repeat;
+    margin: 10px;
+    height: 400px;
+    background-size: cover;
+
+}
+.blog4{
+    background-image: url(../images/dubi/h4.webp);
+    background-repeat: no-repeat;
+    margin: 10px;
+    height: 400px;
+    background-size: cover;
+}
+.blog5{
+    background-image: url(../images/dubi/h5.webp);
+    background-repeat: no-repeat;
+    margin: 10px;
+    height: 400px;
+    background-size: cover;
+}
+/* End news and blogs  */
+/* baner */
+.baner{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/* end baner */
+
+/* bar  */
+.bar{
+    background-color: blue;
+    border-radius: 10px 10px;
+    height: 50px;
+}
+.bar p{
+    margin-top: 5px;
+    font-size: x-large;
+    font-weight: 200;
+    color: #ffff;
+
+}
+.bar button{
+    margin-top: 5px;
+    border-color: blue;
+    color: #ffff;
+    border-radius: 10px 10px;
+    color: blue;
+}
+.bar1 img{
+    width:1600px;
+}
+/* end bar */
+
+/* Page 1 Car rent and sale */
+/* responsive */
+
+.choise{
+    background: rgb(71,88,167);
+    background: linear-gradient(90deg, rgba(71,88,167,1) 0%, rgba(65,80,166,1) 0%, rgba(52,77,158,1) 0%, rgba(30,71,144,1) 0%, rgba(108,111,193,1) 0%, rgba(48,25,140,1) 0%, rgba(116,46,134,1) 58%, rgba(116,46,134,1) 60%, rgba(117,45,134,1) 64%, rgba(132,34,135,1) 100%, rgba(102,69,159,1) 100%, rgba(107,77,152,1) 100%, rgba(110,81,149,1) 100%, rgba(112,68,146,1) 100%, rgba(112,56,147,1) 100%, rgba(140,56,157,1) 100%, rgba(121,75,147,1) 100%, rgba(136,79,152,1) 100%,
+     rgba(147,90,161,1) 100%, rgba(199,26,201,1) 100%, rgba(164,160,160,1) 100%);
+     height: auto; 
+
+}
+.choise .condection{
+    margin-top: 35px;
+    background: #ffff;
+    padding: 20px 10px;
+    margin-bottom: 35px;
+}
+.choise .condection select{
+    border: none;
+}
+
+.choise .model{
+    margin-top: 35px;
+    background: #ffff;
+    padding: 20px 10px;
+}
+.choise .model select{
+    border: none;
+}
+.choise .price{
+    margin-top: 35px;
+    background: #ffff;
+    padding: 20px 10px;
+}
+.choise .price select{
+    border: none;
+}
+.choise .year{
+    margin-top: 35px;
+    background: #ffff;
+    padding: 20px 10px;
+}
+.choise .year select{
+    border: none;
+}
+.choise .search{
+    margin-top: 35px;
+    background: rgb(62, 23, 147);
+    padding: 20px 50px;
+    color: #ffff;
+}
+.choise .search button{
+    border: none;
+}
+
+/* browser */
+.browser .b1{
+    font-size: xx-large;
+    font-weight: 800;
+}
+.browser .b2{
+    color: blue;
+    font-size: xx-large;
+    font-weight: 800;
+}
+.cars img{
+    height: 80px;
+    width: 100px;
+}
+
+/* car rent */
+.rent{
+    border-bottom: 1px solid blue;
+}
+.rent .heading{
+    font-size: xx-large;
+    font-weight: 500;
+    background-color: blue;
+    border-bottom: 1px solid blue;
+    color: white;
+    display: inline-block;
+    padding: 10px 40px;
+    margin-left: 10px;
+}
+.rent1 img{
+    height: 200px;
+    width: 310px;
+}
+.rent1 h3{
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
+.rent1 span{
+    margin-top: 20px;
+    background-color: blue;
+    color: #ffff;
+    height: 10px;
+}
+.rent2 img{
+    height: 200px;
+    width: 310px;
+}
+.rent3 img{
+    height: 200px;
+    width: 310px;
+}
+
+/*End Page 1 Car rent and sale */
+
+/* Page 3 real estate */
+.realestate_bar{
+    background-color: rgb(29, 121, 29);
+}
+.realestate_bar button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 30px;
+    background-color: white;
+    color: #000;
+
+}
+
+/* End page 3 real estate */
